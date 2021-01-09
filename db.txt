@@ -30,7 +30,7 @@
             "Buyer Designed Logistics": "J&T Express",
             "Shipping Option": "Shopee-ID-J&T Express",
             "Shipment Method": "pickup",
-            "Tracking Number": "",
+            "Tracking Number": "RESI1",
             "Shipping Fee": "",
             "Username (Buyer)": "nqfm9skdz1",
             "Receiver Name": "Nariyah",
